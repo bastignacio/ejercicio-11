@@ -1,0 +1,33 @@
+.mensajeTarea{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 15px;
+    font-style: italic;
+    color: #000000;
+    font-size: 20pt;
+    font-weight: bolder;
+    background: linear-gradient(rgb(0, 0, 255), white);
+    border-style: double;
+    border-color: white;
+
+}
+
+body{
+    background-image: url(/assets/img/fondoazul.jpg);
+    
+}
+
+
+img{
+    margin: 60px;
+}
+
+
+h1 {
+    font-size: 60pt;
+    color: white;
+    font-family: fantasy;
+    font-stretch: ultra-expanded;
+
+}
+
+
